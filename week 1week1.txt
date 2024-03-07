@@ -1,0 +1,15 @@
+
+제1주차 : 24.03.08(Fri, 3H)
+
+강의 소개(Syllabus)
+e-class 참조
+80%미만 출석은 F
+부교재 : https://github.com/madscheme/introducing-python 
+What is machine learning?
+What is colab?
+크롬브라우저 다운로드: https://www.google.com/intl/ko_kr/chrome/
+구글메일 가입하고 구글드라이브 사용하기
+Colab 시작하기 : https://colab.research.google.com/?hl=ko 
+What is Big data?
+week_01_Installations and Basics
+What is machine learning and deep learning? (Optional)
